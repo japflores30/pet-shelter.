@@ -1,1 +1,1 @@
-Add Pet, Dog, Cat class
+Add Pet, Dog, and Cat classes
